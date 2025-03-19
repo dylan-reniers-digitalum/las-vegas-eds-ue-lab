@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p150845-e1556381.adobeaemcloud.com/bin/franklin.delivery/adobe-summit2025-l335/seat-87/main"
+    type: "markup"
+    suffix: ".html"
